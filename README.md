@@ -113,7 +113,7 @@ milan_project/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/John-Wassef/Milan-CDR-Batch-Stream-Pipeline.git
+git clone https://github.com/amin3ltd/milan-cdr-batch-stream-pipeline
 cd Milan-CDR-Batch-Stream-Pipeline
 ```
 
@@ -240,4 +240,8 @@ docker-compose down -v
 
 (Removes containers + volumes, including data)
 
+## Contact
+- **Author:** Amin Beshir
+- **Email:** [amin3ltd@gmail.com](mailto:amin3ltd@gmail.com)
+- **GitHub:** [github.com/amin3ltd](https://github.com/amin3ltd)
 

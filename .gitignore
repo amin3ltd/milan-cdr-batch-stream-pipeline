@@ -76,3 +76,5 @@ minio-data/
 *.csv
 *.txt
 *.parquet
+# Auto-ignored files exceeding 15MB
+mc.exe
